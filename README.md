@@ -25,6 +25,8 @@ O objetivo com esse treinamento é conhecer a fundo esta tecnologia tão utiliza
 
 # 🔍 Pontos abordados no curso
 
+<br>
+
 ## 🍼 Puro, Grid, Flexbox, Bootstrap (1)
 
 - Brafé 1 - Puro
