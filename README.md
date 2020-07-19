@@ -21,11 +21,7 @@ O objetivo com esse treinamento é conhecer a fundo esta tecnologia tão utiliza
 
 ---
 
-<br>
-
 # 🔍 Pontos abordados no curso
-
-<br>
 
 ## 🍼 Puro, Grid, Flexbox, Bootstrap (1)
 
