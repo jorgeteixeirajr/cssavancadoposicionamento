@@ -19,6 +19,10 @@ body {
 	box-sizing: border-box;
 }
 
+img {
+	max-width: 100%;
+}
+
 /* Menu */
 
 .menu {
@@ -34,7 +38,7 @@ body {
 /* Intro */
 
 .intro {
-	background: url('../img/bg-intro.jpg') no-repeat center center;
+	background: url('../assets/bg-intro.jpg') no-repeat center center;
 	background-size: cover;
 	color: #fff;
 }
