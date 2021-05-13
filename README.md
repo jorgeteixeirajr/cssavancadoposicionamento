@@ -46,7 +46,6 @@ O objetivo com esse treinamento é conhecer a fundo esta tecnologia tão utiliza
 - Brafé 1 - Puro
 - Brafé 1 - Flexbox
 - Brafé 1 - Bootstrap
-- ***
 
 > "Portanto dele, por Ele e para Ele são todas as coisas. A Ele seja a glória perpetuamente! Amém."
 > Romanos 11:36
